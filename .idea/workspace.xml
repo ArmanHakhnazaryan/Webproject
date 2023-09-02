@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bff768c-c63b-462b-8a60-4cc04caede7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite1/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/migrations/0002_myclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/migrations/0003_delete_myclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/templates/main/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/templates/main/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/mysite1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/mysite1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/mysite1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/mysite1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite1/mysite1/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AAA" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UpYEeOOCAmFWmXtUNlMOLhgnNI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/Downloads/mysite1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bff768c-c63b-462b-8a60-4cc04caede7d" name="Changes" comment="" />
+      <created>1693637884760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693637884760</updated>
+    </task>
+    <servers />
+  </component>
+</project>
